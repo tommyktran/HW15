@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.AssemblyInfo.cs
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.exe
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.deps.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.runtimeconfig.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.dll
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\16Class.pdb
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.dll
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.pdb
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\16Class.genruntimeconfig.cache

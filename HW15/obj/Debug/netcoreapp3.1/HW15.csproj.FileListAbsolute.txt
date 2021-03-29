@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.exe
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.deps.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.runtimeconfig.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.dll
+C:\Users\tommy\source\repos\16Class\16Class\bin\Debug\netcoreapp3.1\HW15.pdb
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.AssemblyInfo.cs
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.dll
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.pdb
+C:\Users\tommy\source\repos\16Class\16Class\obj\Debug\netcoreapp3.1\HW15.genruntimeconfig.cache
